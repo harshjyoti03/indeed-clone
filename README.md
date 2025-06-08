@@ -148,12 +148,4 @@ After filling all the details and submission of the form , a successfull popup w
 <br/>
 <br/>
 
-## Team Members and Contributors
-
-- [@Shubham Kumar](https://github.com/Shubham-047)
-- [@Mohd Tausif](https://github.com/sheikhtausif)
-- [@Abhishek Singh](https://github.com/singhabhishek6)
-- [@Shariq Ansari](https://github.com/ansariShariq)
-
-
 
